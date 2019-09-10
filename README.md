@@ -4,15 +4,15 @@ website： https://www.unitedtrust.co
 ----------------
 #### What is TrustUSD?
 
-TrustUSD is a decentralized, algorithmic stablecoin with plans to operate on multiple blockchains. It allows you to store, send and receive TRUSD assets safely and gives you 100% control of your assets. United Trust is committed to show a good user experience of TrustUSD.
+TrustUSD is an elastic, independent money protocol with plans to operate on multiple blockchains. It allows you to store, send and receive USDTR assets safely and gives you 100% control of your assets. United Trust is committed to show a good user experience of TrustUSD.
 
 
 1.Exchange Convertibility
-- Offered two-way convertibility of TRUSD and other assets across exchanges
+- Offered two-way convertibility of USDTR and other assets across exchanges
 
 2.Security
 - Decentralized blockchain technical framework
-- All TRUSD assets are under your ultimate control
+- All USDTR assets are under your ultimate control
 
 3.Convenient and user-friendly
 - User-friendly
@@ -40,7 +40,7 @@ TrustUSD ERC-20 Contract Functions:
 * approve(address _spender, uint256 _value)：Approve the passed address to spend the specified amount of tokens on behalf of msg.sender allowance(address _owner, address _spender) ：Function to check the amount of tokens that an owner allowed to a spender
 * increaseApproval(address _spender, uint _addedValue) ：Increase the amount of tokens that an owner allowed to a spender
 * decreaseApproval(address _spender, uint _subtractedValue) ：Decrease the amount of tokens that an owner allowed to a spender
-* mintToken( uint256 _value)：Mint the amount of tokens that only contract owner
+* mintToken( uint256 _value)：Mint the amount of tokens that only contract owner can specify
 
 
 
