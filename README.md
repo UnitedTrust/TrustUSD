@@ -4,15 +4,15 @@ website： https://www.unitedtrust.co
 ----------------
 #### What is TrustUSD?
 
-TrustUSD is an elastic, independent money protocol with plans to operate on multiple blockchains. It allows you to store, send and receive USDTR assets safely and gives you 100% control of your assets. United Trust is committed to show a good user experience of TrustUSD.
+TrustUSD is an elastic, independent money protocol with plans to operate on multiple blockchains. It allows you to store, send and receive TRUSD assets safely and gives you 100% control of your assets. United Trust is committed to show a good user experience of TrustUSD.
 
 
 1.Exchange Convertibility
-- Offered two-way convertibility of USDTR and other assets across exchanges
+- Offered two-way convertibility of TRUSD and other assets across exchanges
 
 2.Security
 - Decentralized blockchain technical framework
-- All USDTR assets are under your ultimate control
+- All TRUSD assets are under your ultimate control
 
 3.Convenient and user-friendly
 - User-friendly
